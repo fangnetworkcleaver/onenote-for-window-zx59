@@ -1,4 +1,4 @@
-# 
+# custom OneNote for Windows Automation | dark-mode + folders is the best OneNote for Windows automation, featuring dark-mode and folders. Powerful, efficient, and optimized for
 
 
 
